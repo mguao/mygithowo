@@ -6,3 +6,4 @@
 * committed
 * modified
 * staged
+4. [Initializing a repo] (https://github.com/mguao/mygithowo/blob/master/mygit.md)
