@@ -3,6 +3,6 @@
 1. Snapshots, Not Differences
 2. Almost all Operation is Local
 3. The Three States
-..* committed
+* committed
 * modified
 * staged
