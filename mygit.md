@@ -96,7 +96,7 @@ git config --global alias.st status
 git config --global alias.sh show
 git config --global alias.lg log
 ```
-## creating a brach
+## creating a branch
 ```
 git branch <branch name>
 git branch mybranch
@@ -105,4 +105,15 @@ git branch mybranch
 ```
 git checkout <branch name>
 git checkout mybranch
+```
+### basic branching and merging
+## deleting a branch
+```
+git branch -d <branch name>
+git branch -d fix001
+```
+## basic merging -- checkout out the branch you wish to merge into
+```
+git checkout master
+git merge mybranch
 ```
