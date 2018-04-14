@@ -22,4 +22,3 @@ create .gitignore file in the root of the repo
 ``` 
 git clone <URL/to/the/git/file.git>
 ```
-
