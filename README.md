@@ -6,4 +6,5 @@
 * committed
 * modified
 * staged
-[ Initializing a repo ] (https://github.com/mguao/mygithowo/blob/master/mygit.md)
+[Initializing a repo]: https://github.com/mguao/mygithowo/blob/master/mygit.md
+4. Initializing a repo [Initializing a repo]
