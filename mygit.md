@@ -106,3 +106,8 @@ git branch mybranch
 git checkout <branch name>
 git checkout mybranch
 ```
+## pushing local master to a remote branch (other than remote master)
+```
+git push origin localbranch:remotebranch
+git push origin master:v2
+```
