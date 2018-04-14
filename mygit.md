@@ -96,4 +96,13 @@ git config --global alias.st status
 git config --global alias.sh show
 git config --global alias.lg log
 ```
-
+## creating a brach
+```
+git branch <branch name>
+git branch mybranch
+```
+## switching branch
+```
+git checkout <branch name>
+git checkout mybranch
+```
