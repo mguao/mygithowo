@@ -63,6 +63,7 @@ git commit --amend
 git reset HEAD <file>
 ```
 ## adding remote repositories
+```
 git remote add <alias> git://github.com/to/my/file.git
 git remote -v
 ```
