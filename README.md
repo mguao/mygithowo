@@ -4,5 +4,5 @@
 2. Almost all Operation is Local
 3. The Three States
 ..* committed
-..* modified
-..* staged
+* modified
+* staged
