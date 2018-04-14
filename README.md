@@ -6,6 +6,31 @@
 * committed
 * modified
 * staged
-4. Initializing a repo [initialize repo]
+4. Initializing a repo [cheat sheet]
+5. Cloning an existing Repo [cheat sheet]
+6. Recording Changes to the Repo
+* check status
+* tracking new files
+* staging new files
+* ignoring files
+* viewing staged and unstaged changes
+* committing changes
+* removing files
+* moving files
+7. viewing commit history
+8. Undo changes
+* changing your last commit
+* unstaging a staged file
+9. Working with remotes
+* showing remotes
+* adding remotes
+* fetching and pulling from remotes
+* pushing to remotes
+10. Tagging
+* listing tags
+* creating tags
+* annotated tags
 
-[initialize repo]:https://github.com/mguao/mygithowo/blob/master/mygit.md
+## Branching
+
+[cheat sheet]:https://github.com/mguao/mygithowo/blob/master/mygit.md
