@@ -1,4 +1,4 @@
-## Initialize Git
+## Initialize Git repo
 ``` 
 git init
 ```
