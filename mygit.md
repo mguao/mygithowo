@@ -18,4 +18,8 @@ git commit -m "<commit message>"
 ``` 
 create .gitignore file in the root of the repo
 ```
+## Cloning a project
+``` 
+git clone <URL/to/the/git/file.git>
+```
 
