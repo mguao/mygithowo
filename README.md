@@ -32,5 +32,6 @@
 * annotated tags
 
 ## Branching
+## Pull Request
 
 [cheat sheet]:https://github.com/mguao/mygithowo/blob/master/mygit.md
