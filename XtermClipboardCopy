@@ -1,0 +1,13 @@
+Problem: Xterm doesn't copy to the clipboard automatically.
+Solution: Enable Clipboard Copy.
+How:
+
+add to the file ~/.Xresources (or create if not existing)
+
+XTerm*selectToClipboard: true
+
+run:
+
+xrdb -merge ~/.Xresources
+
+restart Xterm
